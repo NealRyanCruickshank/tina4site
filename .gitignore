@@ -1,0 +1,10 @@
+/vendor/
+/composer.lock
+/cms.db
+/uploads/
+/tinymce/
+/cms.db-shm
+/cms.db-wal
+/secrets/
+/log/
+/cache/
